@@ -8,3 +8,4 @@ Un blog increible para el curso [Curso de Git y github](https://platzi.com/clase
 * Servidores
 * Creado por Platzi team 
 * incluge ejemplos
+* displonible edades
