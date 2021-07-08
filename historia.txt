@@ -1,4 +1,9 @@
 Esta es la historia de Francisco Riquelme 
 Francisco Tiene 20 anhos y nacio en paraguay 
  Master 1
+<<<<<<< HEAD
  master 2
+=======
+ Experimento 2
+ Experimento 1
+>>>>>>> 7ad728a (Experimento 2)
