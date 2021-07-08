@@ -6,4 +6,9 @@ Un blog increible para el curso [Curso de Git y github](https://platzi.com/clase
 * Comandos
 * Formas de conectar 
 * Servidores
+<<<<<<< HEAD
  
+=======
+* Creado por Platzi team 
+* incluge ejemplos
+>>>>>>> 2717b9e (Ejemplo en sistemas operaticos)
