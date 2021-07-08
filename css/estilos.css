@@ -1,5 +1,6 @@
 body {
-    color: red;
+    background: #1e1f24;
+    color: #333;
     text-align: center;
     font-family: sans-serif;
     margin: 0;
@@ -23,4 +24,12 @@ body {
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+#cabecera img{
+    width: 20px;
+    vertical-align: middle;
+}
+#post {
+    background: white;
+    padding: 1em;
 }
