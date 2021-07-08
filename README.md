@@ -7,3 +7,4 @@ Un blog increible para el curso [Curso de Git y github](https://platzi.com/clase
 * Formas de conectar 
 * Servidores
 * Creado por Platzi team 
+* incluge ejemplos
